@@ -77,12 +77,6 @@
 - AI + Full-Stack Integration  
 - Real-world AI Applications  
 
----
-
-# 📈 Profile Views:
-![](https://visitcount.itsvg.in/api?id=mustaphabhatti&icon=0&color=1)
-
----
 
 ### ⚡ Fun Fact:
 I combine **AI + Development + Design** to build smarter and more intuitive systems 🚀
