@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">AI Engineer in Progress | Machine Learning Enthusiastr</h3>
+<h3 align="center">AI Engineer in Progress | Machine Learning Enthusiast</h3>
 
 ---
 
 # 💫 About Me:
 🔭 I’m currently working on **AI & Machine Learning projects**, focusing on real-world problem solving  
-💡 I specialize in **AI/ML systems** with the ability to build **full-stack applications (React + Django)**  
+💡 I specialize in **AI/ML systems** that help with system optimization and analysis.  
 🎨 Background in **UI Design**, combining creativity with intelligent systems  
 👯 I’m looking to collaborate on **AI-driven solutions & high computational systems**  
 🌱 Currently learning **Advanced ML, Deep Learning & Model Optimization**  
