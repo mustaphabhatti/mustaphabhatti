@@ -54,12 +54,6 @@
 - Model Optimization & Deployment  
 - Real-world AI applications  
 
----
-
-## 📈 Profile Views
-![](https://visitcount.itsvg.in/api?id=mustaphabhatti&icon=0&color=1)
-
----
 
 ### ⚡ Fun Fact:
 I blend **AI + Design** to build smarter and more intuitive systems 🚀
