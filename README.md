@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">AI Engineer in Progress | Machine Learning Enthusiast</h3>
+<h3 align="center">AI/ML Engineer</h3>
 
 ---
 
