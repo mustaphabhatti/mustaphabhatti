@@ -63,16 +63,11 @@
 ---
 
 # 📊 GitHub Stats:
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustaphabhatti&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=mustaphabhatti&show_icons=true&theme=blue_navy&hide_border=true&include_all_commits=true" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mustaphabhatti&theme=blue_navy&hide_border=false)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mustaphabhatti&theme=blue_navy&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphabhatti&theme=blue_navy&hide_border=true&layout=compact" />
-
-</div>
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustaphabhatti&theme=blue_navy&hide_border=false&layout=compact)
 
 # 🧠 Current Focus:
 - Deep Learning (CNNs, Transformers)  
